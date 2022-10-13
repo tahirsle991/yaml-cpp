@@ -1,4 +1,4 @@
-project "GLFW"
+project "yaml-cpp"
 	kind "StaticLib"
 	language "C++"
 
